@@ -1,0 +1,51 @@
+﻿<Page
+    x:Class="ticketer.Views.ShellPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:behaviors="using:ticketer.Behaviors"
+    xmlns:winui="using:Microsoft.UI.Xaml.Controls"
+    xmlns:helpers="using:ticketer.Helpers"
+    xmlns:views="using:ticketer.Views"
+    Loaded="OnLoaded"
+    mc:Ignorable="d">
+
+    <winui:NavigationView
+        x:Name="navigationView"
+        IsBackEnabled="{x:Bind IsBackEnabled, Mode=OneWay}"
+        SelectedItem="{x:Bind Selected, Mode=OneWay}"
+        ItemInvoked="OnItemInvoked"
+        IsSettingsVisible="True"
+        Background="{ThemeResource SystemControlBackgroundAltHighBrush}">
+        <winui:NavigationView.MenuItems>
+            <winui:NavigationViewItem x:Uid="Shell_Main" FontSize="17px"  helpers:NavHelper.NavigateTo="views:ContentGridPage">
+
+                <winui:NavigationViewItem.Icon>
+                <BitmapIcon Height="20px" UriSource="Assets/ticket2.png"></BitmapIcon>
+                 </winui:NavigationViewItem.Icon>
+
+            </winui:NavigationViewItem>
+
+        </winui:NavigationView.MenuItems>
+        <i:Interaction.Behaviors>
+            <behaviors:NavigationViewHeaderBehavior
+                DefaultHeader="{x:Bind Selected.Content, Mode=OneWay}">
+                <behaviors:NavigationViewHeaderBehavior.DefaultHeaderTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <TextBlock
+                                Text="{Binding}"
+                                Style="{ThemeResource TitleTextBlockStyle}"
+                                Margin="{StaticResource SmallLeftRightMargin}" />
+                        </Grid>
+                    </DataTemplate>
+                </behaviors:NavigationViewHeaderBehavior.DefaultHeaderTemplate>
+            </behaviors:NavigationViewHeaderBehavior>
+        </i:Interaction.Behaviors>
+        <Grid>
+            <Frame x:Name="shellFrame" />
+        </Grid>
+    </winui:NavigationView>
+</Page>

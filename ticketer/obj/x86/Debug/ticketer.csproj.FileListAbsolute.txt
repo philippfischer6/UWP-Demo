@@ -1,0 +1,347 @@
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\App.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Views\ContentGridDetailPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Views\SettingsPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.xr.xml
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\resources.pri
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\AppxManifest.xml
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Core\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.build.appxrecipe
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ColorCode.Core.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ColorCode.Core.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ColorCode.UWP.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ColorCode.UWP.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\System.Runtime.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.Core.dll
+C:\Users\phili\Desktop\ticketer\ticketer\bin\x86\Debug\ticketer.Core.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ticketer.csprojAssemblyReference.cache
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\App.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\App.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\SettingsPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\SettingsPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ShellPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ShellPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\App.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\Page.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_Colors.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_FontSizes.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_Thickness.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\TextBlock.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\SettingsPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ShellPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\App.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\SettingsPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ticketer.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ticketer.csproj.CopyComplete
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ColorCode.UWP.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\priconfig.xml
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\resources.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\pri.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\qualifiers.txt
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214462760000000.json
+C:\Users\phili\Desktop\ticketer\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\phili\Desktop\Ticketer\ticketer\bin\x86\Debug\Views\ViewTickets.xbf
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Views\ViewTickets.g.i.cs
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Views\ViewTickets.g.cs
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Views\ViewTickets.xaml
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Views\ViewTickets.xbf
+C:\Users\phili\Desktop\Ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\phili\Desktop\Ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\phili\Desktop\Ticketer\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\phili\Desktop\Ticketer\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\App.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Views\ContentGridDetailPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Views\SettingsPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.xr.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\resources.pri
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\AppxManifest.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Core\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.build.appxrecipe
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ColorCode.Core.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ColorCode.Core.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ColorCode.UWP.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ColorCode.UWP.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\System.Runtime.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.Core.dll
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\ticketer.Core.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ticketer.csprojAssemblyReference.cache
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\App.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\App.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\SettingsPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\SettingsPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ShellPage.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ShellPage.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\App.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\Page.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_Colors.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_FontSizes.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_Thickness.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\TextBlock.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\SettingsPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ShellPage.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\App.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridDetailPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\SettingsPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ticketer.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ticketer.csproj.CopyComplete
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ColorCode.UWP.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\priconfig.xml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\resources.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\pri.resfiles
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\qualifiers.txt
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214462760000000.json
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\bin\x86\Debug\Views\AcceptTicket.xbf
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\AcceptTicket.g.i.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\AcceptTicket.g.cs
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\AcceptTicket.xaml
+C:\Users\phili\Desktop\ticketer\ticketer_itp\ticketer\obj\x86\Debug\Views\AcceptTicket.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\App.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.xr.xml
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\resources.pri
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\AppxManifest.xml
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Core\ticketer.exe
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.build.appxrecipe
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ColorCode.Core.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ColorCode.Core.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ColorCode.UWP.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ColorCode.UWP.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\System.Runtime.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.Core.dll
+C:\Users\phili\Desktop\backup prj\ticketer\bin\x86\Debug\ticketer.Core.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ticketer.csprojAssemblyReference.cache
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\App.g.i.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\App.g.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ContentGridPage.g.i.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ContentGridPage.g.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ShellPage.g.i.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ShellPage.g.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\App.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\Page.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_Colors.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_FontSizes.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_Thickness.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\TextBlock.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ContentGridPage.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ShellPage.xaml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\App.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\Page.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_Colors.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\_Thickness.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Styles\TextBlock.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ContentGridPage.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Views\ShellPage.xbf
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ticketer.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ticketer.csproj.CopyComplete
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ColorCode.UWP.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ticketer.exe
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ticketer.pdb
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\priconfig.xml
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\resources.resfiles
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\pri.resfiles
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\qualifiers.txt
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214462760000000.json
+C:\Users\phili\Desktop\backup prj\ticketer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
